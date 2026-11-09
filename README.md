@@ -222,3 +222,14 @@ ALL 16 PYTHON PROGRAMS AND TESTS PASSED SUCCESSFULLY!
 - **Dual Execution Pattern**: Interactive CLI mode combined with default demo fallback for automated testing environments.
 - **Pure Standard Library**: No external dependencies or packages required.
 
+## Academic Context & Author Notes
+
+This project is **Week 1** of a structured 4-week Python and Software Engineering learning program:
+
+- **Week 1:** Python Fundamentals, Data Structures & Algorithmic Foundations *(This Project)*
+- **Week 2:** Object-Oriented Programming (OOP), Modules, Exception Handling & File Management
+- **Week 3:** **Git, GitHub, Version Control, Collaboration & Professional Engineering Practices** 
+- **Week 4:** Capstone Project — Building a Python-based CLI Expense Tracker with JSON Persistence, Testing & Documentation
+
+**Author:** B.Tech Computer Science Engineering Student, specializing in Robotics & Artificial Intelligence  
+**Academic Focus:** Software Development, Robotics, Artificial Intelligence & Cybersecurity  
